@@ -1,1 +1,3 @@
-# bridge-score
+# 橋牌計分器
+
+使用 React + Vite 製作的網頁工具，可計算橋牌合約得分。
